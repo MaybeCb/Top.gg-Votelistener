@@ -1,0 +1,19 @@
+# Ignore environment variable files
+.env
+
+# Ignore custom config files
+settings.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore log files
+*.log

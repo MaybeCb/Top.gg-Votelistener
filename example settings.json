@@ -1,0 +1,8 @@
+{
+    "bot_token": "bot_token",
+    "webhook_auth": "webhook_auth",
+    "vote_channel_id": 12398901232,
+    "port": 5000,
+    "default_embed_color": "0x5865F2"
+  }
+  
